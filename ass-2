@@ -1,0 +1,12 @@
+#Positive or Negative Number
+a=int(input('enter the number:'))
+if a>0:
+    print('Given number is positive')
+else:
+    print('Given number is negetive')
+    OUTPUT:
+    enter the number:10
+    Given number is positive
+    
+    'enter the number:-10
+    Given number is negetive
